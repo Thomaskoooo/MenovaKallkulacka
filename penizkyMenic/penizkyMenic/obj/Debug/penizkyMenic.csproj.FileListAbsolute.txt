@@ -1,0 +1,10 @@
+C:\Users\SussyBlueBallz\Documents\Programovanieeee\c#\penizkyMenic\penizkyMenic\bin\Debug\penizkyMenic.exe.config
+C:\Users\SussyBlueBallz\Documents\Programovanieeee\c#\penizkyMenic\penizkyMenic\bin\Debug\penizkyMenic.exe
+C:\Users\SussyBlueBallz\Documents\Programovanieeee\c#\penizkyMenic\penizkyMenic\bin\Debug\penizkyMenic.pdb
+C:\Users\SussyBlueBallz\Documents\Programovanieeee\c#\penizkyMenic\penizkyMenic\obj\Debug\penizkyMenic.csproj.AssemblyReference.cache
+C:\Users\SussyBlueBallz\Documents\Programovanieeee\c#\penizkyMenic\penizkyMenic\obj\Debug\penizkyMenic.Form1.resources
+C:\Users\SussyBlueBallz\Documents\Programovanieeee\c#\penizkyMenic\penizkyMenic\obj\Debug\penizkyMenic.Properties.Resources.resources
+C:\Users\SussyBlueBallz\Documents\Programovanieeee\c#\penizkyMenic\penizkyMenic\obj\Debug\penizkyMenic.csproj.GenerateResource.cache
+C:\Users\SussyBlueBallz\Documents\Programovanieeee\c#\penizkyMenic\penizkyMenic\obj\Debug\penizkyMenic.csproj.CoreCompileInputs.cache
+C:\Users\SussyBlueBallz\Documents\Programovanieeee\c#\penizkyMenic\penizkyMenic\obj\Debug\penizkyMenic.exe
+C:\Users\SussyBlueBallz\Documents\Programovanieeee\c#\penizkyMenic\penizkyMenic\obj\Debug\penizkyMenic.pdb
